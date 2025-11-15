@@ -1,0 +1,2 @@
+# diagramadimensional
+Diagrama dimensional
